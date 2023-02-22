@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **nosaroki/nosaroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: nnena.osarokio@gmail.com
 - ⚡ Fun fact: i ♡ food
 
+-----------------------------------------------
+
 ### Can do
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +24,8 @@ Here are some ideas to get you started:-->
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+-----------------------------------------------
 
 ### Currently learning
 
