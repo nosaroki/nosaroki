@@ -31,4 +31,4 @@ https://camo.githubusercontent.com/c70249b51f6c8b5ccc549fc26cb20c3e51a4d5b2a7169
 
 ### Stats
 
-api/pin?username=nosaroki&repo=github-readme-stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=github-readme-stats)](https://github.com/nnosaroki/github-readme-stats)
