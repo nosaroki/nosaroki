@@ -21,6 +21,6 @@ Here are some ideas to get you started:-->
 
 [![Nosaroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/nnosaroki/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats)
 
 
