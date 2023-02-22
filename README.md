@@ -31,12 +31,9 @@ Here are some ideas to get you started:-->
 
 ### Stats
 
-[![Nosaroki's GitHub stats]()
-
-[![Top Langs])
 
 <a href="https://github.com/nosaroki/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=github-readme-stats&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/nosaroki/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats" />
