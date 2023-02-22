@@ -31,21 +31,15 @@ Here are some ideas to get you started:-->
 
 ### Stats
 
-[![Nosaroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats)
+[![Nosaroki's GitHub stats]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats)
+[![Top Langs])
 
 <a href="https://github.com/nosaroki/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=github-readme-stats&theme=vision-friendly-dark" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=github-readme-stats&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats)" />
 </a>
-<a href="https://github.com/nosaroki/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nosaroki&repo=convoychat&theme=vision-friendly-dark" />
+<a href="https://github.com/nosaroki/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosaroki&theme=vision-friendly-dark)](https://github.com/nosaroki/github-readme-stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
