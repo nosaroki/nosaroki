@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently a Freelance Web Developper
 - 🌱 I’m currently learning Tailwind, Next.js
-- 👯 I’m looking for new jobs
+- 👯 I’m open for work opportunities
 - 📫 How to reach me: nnena.osarokio@gmail.com
 - ⚡ Fun fact: i ♡ food
 
