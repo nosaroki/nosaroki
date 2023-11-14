@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Figma and SwiftUI
 - 👯 I’m open for work opportunities
 - 📫 How to reach me: nnena.osarokio@gmail.com
-- ⚡ Fun fact: i ♡ food
+- ⚡ Fun fact: i ♡ pizza
 
 -----------------------------------------------
 
