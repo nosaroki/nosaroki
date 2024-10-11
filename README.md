@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a Freelance Web Developer
+- 🔭 I’m a Front-End Web Developer
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m open for work opportunities
 - 📫 How to reach me: nnena.osarokio@gmail.com
